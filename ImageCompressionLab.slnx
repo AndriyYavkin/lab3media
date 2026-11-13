@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ImageCompression.Core/ImageCompression.Core.csproj" />
+    <Project Path="src/ImageCompression.Wpf/ImageCompression.Wpf.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ImageCompression.Tests/ImageCompression.Tests.csproj" />
+  </Folder>
+</Solution>
